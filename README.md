@@ -13,7 +13,7 @@
 <h3 align="left">👩‍💻  Sobre mí</h3>
 
 <p align="left">
-<br>Me gusta compartir contenido sobre programación y tecnología para transmitir lo que he aprendido en el camino. Comparto consejos, buenas prácticas y experiencias que puedan ayudar a otros desarrolladores a crecer, mientras sigo aprendiendo junto a la comunidad.<br>
+<br>Me gusta compartir contenido sobre programación y tecnología para transmitir lo que he aprendido en el camino. Buenas prácticas y experiencias que puedan ayudar a otros desarrolladores a crecer, mientras sigo aprendiendo junto a la comunidad.<br>
 </p>
 
 <h3 align="left">🛠 Tecnologías y herramientas</h3>
